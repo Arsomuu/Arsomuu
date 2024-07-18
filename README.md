@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arsomuu
 - 👀 I’m interested in webdev and competitive programming
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on web dev projects 
 - 📫 How to reach me - insta handle @arsomuu
 - 😄 Pronouns: he/him
